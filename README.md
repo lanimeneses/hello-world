@@ -1,1 +1,2 @@
-# hello-world
+% cd ~/Desktop
+% git clone 
